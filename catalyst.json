@@ -1,0 +1,13 @@
+{
+  "applogic": {
+    "targets": [
+      "catly"
+    ],
+    "ignore": [],
+    "source": "applogic"
+  },
+  "client": {
+    "source": "client/app/build",
+    "ignore": []
+  }
+}
